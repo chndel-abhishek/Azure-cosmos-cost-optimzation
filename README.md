@@ -28,7 +28,7 @@ The architecture leverages Azure services for seamless data management:
 - **Azure Blob Storage (Cool Tier):** Archives records older than 3 months  
 - **Azure Functions (Archival):** Processes Cosmos DB change feed to archive records
 
-![Cost Optimization Architecture](e9674aaa-206a-4845-a1c2-3897638d78b9.png)
+![Cost Optimization Architecture](https://github.com/chndel-abhishek/Azure-cosmos-cost-optimzation/blob/main/architecture.png?raw=true)
 
 ---
 
